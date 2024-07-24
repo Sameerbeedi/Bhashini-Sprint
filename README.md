@@ -1,4 +1,6 @@
-#Emotion Recognition from Text
+Emotion Recognition from Text
+
+
 Overview
 This project aims to recognize emotions from text. The dataset consists of various text entries, each labeled with an emotion. The project involves preprocessing the text data and using a neural network model to predict the emotion of a given phrase.
 
